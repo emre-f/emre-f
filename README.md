@@ -24,8 +24,8 @@ _+ writing shaders for video game dev_
 Crypto & blockchain technologies
 
 ### Links
-My portfolio: [emreferhatoglu.com](https://www.emreferhatoglu.com/)  
-YouTube Channel where I make technical tutorials & interesting videos: [@ZiberianDev](https://www.youtube.com/@ZiberianDev)
+[Portfolio](https://www.emreferhatoglu.com/)  
+[YouTube Channel](https://www.youtube.com/channel/UCVeV1lNP4EjwyV60duVCWEg)
 
 ### Contact
 You can fill out the [contact form](https://www.emreferhatoglu.com/contact) in my portfolio which will send me an email.
