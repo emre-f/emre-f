@@ -6,11 +6,11 @@ Working as a Software Engineer at [Clearco](https://www.clear.co/).
 Completing my Master's Degree part time at Georgia Tech.
 
 ### Other things I am working on...
-Video games  
+#### Video Game Development
 I have a game published on Steam, I like to participate in game jams, currently testing ideas for my next game project.  
 You can find my existing projects [here](https://www.emreferhatoglu.com/projects).
 
-_(Video Game)_ Art  
+#### _(Video Game)_ Art  
 Trying out different styles to find an art direction for my next game.
 Examples: [2D stylized art](https://x.com/emreferhatoglu_/status/1968152940008600032), [pixel art](https://x.com/emreferhatoglu_/status/1965619347076120655), [3d pixel art](https://x.com/emreferhatoglu_/status/1986937220238909754)
  
