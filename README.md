@@ -2,7 +2,7 @@
 
 ### Currently
 
-Working as a Software Engineer at [Clearco](https://www.clear.co/).  
+Working as an FDE at [Federato](https://www.federato.ai/).  
 Completing my Master's Degree part time at Georgia Tech.
 
 ### Other things I am working on...
